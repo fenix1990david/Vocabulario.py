@@ -1,0 +1,2 @@
+# Vocabulario.py
+Proyecto vocabulario
